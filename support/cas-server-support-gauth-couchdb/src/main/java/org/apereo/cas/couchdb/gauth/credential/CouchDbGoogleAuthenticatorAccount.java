@@ -40,7 +40,7 @@ public class CouchDbGoogleAuthenticatorAccount extends GoogleAuthenticatorAccoun
     private String rev;
 
     /**
-     * From.
+     * From one time token account into Couch db google authenticator account
      *
      * @param acct the acct
      * @return the couch db google authenticator account
